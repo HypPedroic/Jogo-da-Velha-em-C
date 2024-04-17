@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-//OPAAAAA
-
 char jogo[3][3] = {
     {'-', '-', '-'},
     {'-', '-', '-'},
